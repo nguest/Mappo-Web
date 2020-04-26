@@ -1,0 +1,7 @@
+{
+  "name": "mappo-web",
+  "scripts": {
+    "start": "cd client && npm start",
+    "build": "cd client && npm install && npm build"
+  }
+}
