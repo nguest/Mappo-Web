@@ -8,6 +8,5 @@ require (
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/mux v1.7.3
 	github.com/lib/pq v1.2.0
-	golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a // indirect
-	google.golang.org/api v0.9.0
+	golang.org/x/sys v0.1.0 // indirect
 )
